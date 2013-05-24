@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lzan13.wifi"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+	<!-- 访问网络权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 检测网络状态权限 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 改变wifi状态 -->
+<!--     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" /> -->
+	<!--  -->
+<!--     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"	/> -->
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.lzan13.wifi.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.google.ads.AdActivity" 
+            	android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"></activity>
+    </application>
+
+</manifest>
