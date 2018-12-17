@@ -1,9 +1,9 @@
-Õâ¸öÐ¡Àý×Ó¿ÉÒÔÅÐ¶ÏÉè±¸ÊÇ·ñÒÑ¾­Á¬½ÓÍøÂç£¬²¢ÇÒÔÚÁ¬½ÓÍøÂçµÄ×´Ì¬ÏÂ¿ÉÒÔÅÐ¶ÏÊÇwifiÎÞÏßÁ¬½Ó»¹ÊÇGPRSÊÖ»úÍøÂçÁ¬½Ó£¬ÕâÑù¾Í¿ÉÒÔÔÚ²»Í¬µÄÍøÂçÁ¬½ÓÏÂÈ¥µ÷ÓÃ²»Í¬µÄ·½·¨£¬´¦Àí²»Í¬µÄÊÂÇé£¬±ÈÈçÒ»¸öÓÐÏÂÔØ¹¦ÄÜµÄapp¿ÉÒÔÅÐ¶ÏÖ»ÓÐµ±wifiÁ¬½ÓµÄÊÇºóÈ¥ÏÂÔØÎÄ¼þ£¬GPRSÁ÷Á¿Á¬½ÓÔò²»ÏÂÔØ£¡
+è¿™ä¸ªå°ä¾‹å­å¯ä»¥åˆ¤æ–­è®¾å¤‡æ˜¯å¦å·²ç»è¿žæŽ¥ç½‘ç»œï¼Œå¹¶ä¸”åœ¨è¿žæŽ¥ç½‘ç»œçš„çŠ¶æ€ä¸‹å¯ä»¥åˆ¤æ–­æ˜¯wifiæ— çº¿è¿žæŽ¥è¿˜æ˜¯GPRSæ‰‹æœºç½‘ç»œè¿žæŽ¥ï¼Œè¿™æ ·å°±å¯ä»¥åœ¨ä¸åŒçš„ç½‘ç»œè¿žæŽ¥ä¸‹åŽ»è°ƒç”¨ä¸åŒçš„æ–¹æ³•ï¼Œå¤„ç†ä¸åŒçš„äº‹æƒ…ï¼Œæ¯”å¦‚ä¸€ä¸ªæœ‰ä¸‹è½½åŠŸèƒ½çš„appå¯ä»¥åˆ¤æ–­åªæœ‰å½“wifiè¿žæŽ¥çš„æ˜¯åŽåŽ»ä¸‹è½½æ–‡ä»¶ï¼ŒGPRSæµé‡è¿žæŽ¥åˆ™ä¸ä¸‹è½½ï¼
 
-ÔÚÃ»ÓÐÁ¬½ÓµÄÍøÂçµÄÇé¿öÏÂ»áµ¯³öÒ»¸ö¶Ô»°¿ò£¬ÈÃÓÃ»§Ñ¡ÔñÊÇ·ñÈ¥ÉèÖÃÍøÂçÁ¬½Ó£¡
+åœ¨æ²¡æœ‰è¿žæŽ¥çš„ç½‘ç»œçš„æƒ…å†µä¸‹ä¼šå¼¹å‡ºä¸€ä¸ªå¯¹è¯æ¡†ï¼Œè®©ç”¨æˆ·é€‰æ‹©æ˜¯å¦åŽ»è®¾ç½®ç½‘ç»œè¿žæŽ¥ï¼
 
-![image](http://image142-c.poco.cn/mypoco/myphoto/20130522/17/6478137120130522174521025.png)
+![image](http://img.blog.melove.net/blog/uploads/images/2013/05/wifi-state.png)
 
-ÎÒÕâÀïÎªÁËÄÜÃ÷È·µÄËµÃ÷wifiºÍGPRSÁ¬½ÓµÄ²»Í¬Çé¿ö£¬ÉèÖÃÁËwifiÁ¬½ÓÏÂ¼ÓÔØÒ»¸öadmobµÄ¹ã¸æÌõ£¬GPRSÏÂ²»È¥¼ÓÔØ¹ã¸æ£¬ÕâÒ²ËãÊÇÔÚÊµ¼ÊµÄ¿ª·¢ÖÐÌáÉýÓÃ»§ÌåÑéµÄÒ»¸öÍ¾¾¶°É£¡ 
+æˆ‘è¿™é‡Œä¸ºäº†èƒ½æ˜Žç¡®çš„è¯´æ˜Žwifiå’ŒGPRSè¿žæŽ¥çš„ä¸åŒæƒ…å†µï¼Œè®¾ç½®äº†wifiè¿žæŽ¥ä¸‹åŠ è½½ä¸€ä¸ªadmobçš„å¹¿å‘Šæ¡ï¼ŒGPRSä¸‹ä¸åŽ»åŠ è½½å¹¿å‘Šï¼Œè¿™ä¹Ÿç®—æ˜¯åœ¨å®žé™…çš„å¼€å‘ä¸­æå‡ç”¨æˆ·ä½“éªŒçš„ä¸€ä¸ªé€”å¾„å§ï¼ 
 
-¸ü¶àÇë¹Ø×¢ÎÒµÄ¸öÈË²©¿Í£º[http://www.melove.net](http://www.melove.net)
+æ›´å¤šè¯·å…³æ³¨æˆ‘çš„ä¸ªäººåšå®¢ï¼š[http://www.melove.net](http://www.melove.net)
